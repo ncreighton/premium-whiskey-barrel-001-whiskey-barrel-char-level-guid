@@ -1,0 +1,2 @@
+# premium-whiskey-barrel-001-whiskey-barrel-char-level-guid
+Stop guessing which char level gave your whiskey that perfect smoky vanilla note. Your barrels' char levels are the secret to repeatable, exceptional flavor—but without a dedicated tracking system, you're leaving consistency to chance.  This Notion template transforms your barrel management from scattered notes into a precise, searchable database.
